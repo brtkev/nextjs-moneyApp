@@ -1,0 +1,9 @@
+
+
+
+#main-container{
+    width: 100%;
+    min-height: 100vh;
+    background: var(--black-color);
+    background: linear-gradient(180deg, var(--black-color) 50%, var(--primary-color) 100%);
+}
